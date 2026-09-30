@@ -2,7 +2,7 @@
 
 Growth and marketing ops, based in Mumbai. I build the systems behind marketing: tracking, product feeds, dashboards, and tools that use LLMs to make sense of messy data.
 
-MMS (Marketing). Previously B.Pharm.
+MMS (Marketing).
 
 **Projects**
 - [**review-analyser**](https://github.com/Ani25x/review-analyser): turns hundreds of app reviews into ranked complaint themes with Claude, structured outputs and a measured accuracy check
